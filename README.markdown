@@ -26,7 +26,7 @@ Requirements
 -----------
 
 The **ssl** module was introduced into Python's standard library in
-version 2.6. It has only been extensively tested against 2.7.
+version 2.6. This code has only been extensively tested against 2.7.
 
 Use of SecureLDAPXMLRPCServer requires [Python-LDAP][pyldap].
 
