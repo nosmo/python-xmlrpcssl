@@ -2,7 +2,7 @@ python-xmlrpcssl
 ===========
 
 A poorly-named set of python modules for securing Python's XMLRPC
-ssl.
+server.
 
 Coomponents
 -----------
